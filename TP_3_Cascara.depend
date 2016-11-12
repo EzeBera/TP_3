@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1478805865 source:c:\users\ing berazategui\desktop\tp_3_cascara\main.c
+	"stddef.h"
+	"stdio.h"
+	"stdlib.h"
+
+1478093535 source:c:\users\alumno.lab4pc\desktop\tp_3_cascara\main.c
+	"stddef.h"
+	"stdio.h"
+	"stdlib.h"
+
